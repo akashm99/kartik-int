@@ -1,3 +1,13 @@
+// This is an interview setting,
+// Task: build a fully functional react web application for image upload service
+// functionalities:
+// upload image
+// query and display all images
+// provide me with complete code with comments for all files, components, etc with filename for each on top
+// you may use express, mongodb, context apis if required, tailwind css
+
+// give me overview and list of components & apis with description 
+
 import logo from './logo.svg';
 import './App.css';
 
